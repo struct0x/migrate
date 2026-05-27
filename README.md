@@ -2,7 +2,7 @@
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/struct0x/migrate.svg)](https://pkg.go.dev/github.com/struct0x/migrate)
 [![Go Report Card](https://goreportcard.com/badge/github.com/struct0x/migrate)](https://goreportcard.com/report/github.com/struct0x/migrate)
-![Coverage](https://img.shields.io/badge/Coverage-95.0%25-brightgreen)
+![Coverage](https://img.shields.io/badge/Coverage-0.0%25-red)
 
 Dead simple in-app migration system.
 
